@@ -1,10 +1,5 @@
----
-title: Introdução ao R
-author: "Iara Passos"
-date: <iaracpassos@gmail.com>
-output: html_document
-fontsize: 12pt
----
+Introdução ao R
+==================
 
 Este curso pretende apresentar uma introdução a uma das ferramentas de análise de dados mais versáteis e completas em uso atualmente: a linguagem e ambiente de programação R. Iremos, ao longo de quatro encontros, aprender como utilizar suas funcionalidades básicas de forma rápida e reprodutível com a intenção de utilizá-las e aplicá-las na pesquisa científica. Para tanto, após a compreensão das ferramentas básicas da linguagem, iniciaremos uma introdução à análise de dados, importação e exportação de bases, construção de gráficos e análise de dados textuais. 
 
