@@ -117,8 +117,9 @@ vetor1 <- vetor1[-c(1:3)] #substituo o vetor1 pelo proprio vetor1 sem as casas d
 #Outras são instaladas juntas com pacotes adicionais
 #Outras precisamos instalar outros pacotes para poder usá-las
 #Para instalar um pacote novo usamos install.packages("nome do pacote")
+#Para ver a documentação referente a uma função utilize ?nomefunção ou a busca do Help na janela do canto inferior direito do RStudio
 
-#concatenação de funções
+#Concatenação de funções
 #posso concatenar funções para não ter que usar muitas linhas de códigos se preciso usar só o resultado final da concatenação
 #sempre leia de dentro pra fora
 
