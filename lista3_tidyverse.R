@@ -9,7 +9,7 @@
 
 #install.packages("Stat2Data") #instale esse pacote
 library(Stat2Data)
-data("Titanic")
+titanic <- data("Titanic")
 
 #37 - Filtre os sobreviventes do Titanic, armazene em um novo banco
 
