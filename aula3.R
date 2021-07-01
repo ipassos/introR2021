@@ -5,8 +5,8 @@ library(tidyverse)
 
 #importa banco 
 #banco precisa estar na mesma pasta que o projeto ou indicar o endereço completo
-all_deaths <- read.csv("~/MEGA/R/intro2021/all_deaths.csv", na.strings="")
-all_jails <- read.csv("~/MEGA/R/intro2021/all_jails.csv", na.strings="")
+all_deaths <- read.csv("all_deaths.csv", na.strings="")
+all_jails <- read.csv("all_jails.csv", na.strings="")
 
 #tranforma as colunas de d2008 a ac2019 em categorias da variável "sub_year" e os valores na variável "count"
 #depois separa a coluna sub_year em duas, para podermos ter uma coluna só com o ano
